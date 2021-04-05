@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/rajeevbhumaik/demo-app.git/static/css/main.c540b48f.chunk.css",
+    "main.js": "/rajeevbhumaik/demo-app.git/static/js/main.e6d4df82.chunk.js",
+    "main.js.map": "/rajeevbhumaik/demo-app.git/static/js/main.e6d4df82.chunk.js.map",
+    "runtime-main.js": "/rajeevbhumaik/demo-app.git/static/js/runtime-main.474d2825.js",
+    "runtime-main.js.map": "/rajeevbhumaik/demo-app.git/static/js/runtime-main.474d2825.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/rajeevbhumaik/demo-app.git/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.da1c5236.chunk.js": "/rajeevbhumaik/demo-app.git/static/js/2.da1c5236.chunk.js",
+    "static/js/2.da1c5236.chunk.js.map": "/rajeevbhumaik/demo-app.git/static/js/2.da1c5236.chunk.js.map",
+    "index.html": "/rajeevbhumaik/demo-app.git/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/rajeevbhumaik/demo-app.git/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.c540b48f.chunk.css.map": "/rajeevbhumaik/demo-app.git/static/css/main.c540b48f.chunk.css.map",
+    "static/js/2.da1c5236.chunk.js.LICENSE.txt": "/rajeevbhumaik/demo-app.git/static/js/2.da1c5236.chunk.js.LICENSE.txt",
+    "static/media/cyber.9331347c.jpg": "/rajeevbhumaik/demo-app.git/static/media/cyber.9331347c.jpg",
+    "static/media/firewall.fa08f7a4.jpg": "/rajeevbhumaik/demo-app.git/static/media/firewall.fa08f7a4.jpg",
+    "static/media/webapplication.b6dbd5ab.jpg": "/rajeevbhumaik/demo-app.git/static/media/webapplication.b6dbd5ab.jpg",
+    "static/media/website.19489747.jpg": "/rajeevbhumaik/demo-app.git/static/media/website.19489747.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.474d2825.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.da1c5236.chunk.js",
+    "static/css/main.c540b48f.chunk.css",
+    "static/js/main.e6d4df82.chunk.js"
+  ]
+}
